@@ -55,4 +55,4 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
-20 de enero de 2022 curso IBM / Esta linea es para probar la crga de los nuevos archivosen elr epositorio por cristianfontalvo
+20 de enero de 2022 curso IBM / Esta linea es para probar la carga de los nuevos archivos en el repositorio
